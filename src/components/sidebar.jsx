@@ -43,7 +43,7 @@ export default class Sidebar extends Component {
                   Made with <i className="icon-heart" aria-hidden="true" /> and <i className="icon-coffee" aria-hidden="false"></i><br></br>
               </small></p>
               <p><small>
-                Qualcosa qui!
+                <br/>
               </small></p>
             </div>
           </aside>
