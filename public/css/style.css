@@ -375,6 +375,13 @@ body.offcanvas {
   margin: 0;
   padding: 0; }
 
+/* Added but not used */
+.skillbars {
+  margin-right: 150px;
+  margin-left: 100px;
+}
+
+
 .colorlib-experience,
 .colorlib-skills,
 .colorlib-education,

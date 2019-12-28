@@ -15,7 +15,7 @@ export default class Introduction extends Component {
                       <div className="slider-text-inner js-fullheight">
                         <div className="desc">
                           <h1>Hi!<br/>I'm Saverio</h1>
-                          <p><a className="btn btn-primary btn-learn" href="https://www.dropbox.com/s/wixlhco28t4ao3g/Saverio_GUZZO_CV.pdf?dl=0" target="_blank" rel="noopener noreferrer">View CV<i className="icon-download4" /></a></p>
+                          <p><a className="btn btn-primary btn-learn" href="https://www.dropbox.com/s/zqh7iw5ely46s4x/201912_CV_curriculum.pdf?dl=0" target="_blank" rel="noopener noreferrer">View CV <i className="icon-download4" /></a></p>
                         </div>
                       </div>
                     </div>
@@ -45,7 +45,7 @@ export default class Introduction extends Component {
                       <div className="slider-text-inner">
                         <div className="desc">
                           <h1>I Just like <br/>Doing it. </h1>
-                          <p><a className="btn btn-primary btn-learn" href="https://www.strava.com/athletes/49107171" target="_blank" rel="noopener noreferrer">View Activities<i className="icon-book" /></a></p>
+                          <p><a className="btn btn-primary btn-learn" href="https://www.strava.com/athletes/49107171" target="_blank" rel="noopener noreferrer">View Activities <i className="icon-layers2" /></a></p>
                         </div>
                       </div>
                     </div>
