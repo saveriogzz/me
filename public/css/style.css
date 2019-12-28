@@ -297,6 +297,7 @@ figure {
           margin: 0;
           padding: 0;
           color: black;
+          text-shadow: 0 0 4px white;
           font-family: "Playfair Display", Georgia, serif; }
         #colorlib-hero .flexslider .slider-text > .slider-text-inner h1 {
           margin-bottom: 20px;
@@ -1173,6 +1174,7 @@ body.offcanvas {
   font-family: "Quicksand", Arial, sans-serif;
   font-size: 12px;
   font-weight: 400;
+  text-shadow: 0 0 4px white;
   text-transform: uppercase;
   letter-spacing: 1px;
   -webkit-border-radius: 2px;

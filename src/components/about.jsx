@@ -34,37 +34,37 @@ export default class About extends Component {
             <div className="col-md-4 text-center animate-box">
                 <div className="services color-1">
                 <span className="icon">
-                    <i className="icon-bulb" />
+                    <i className="icon-bar-graph" />
                 </span>
                 <div className="desc">
                     <h3>Data Analytics</h3>
-                    <p>I have experience finding business insights from raw data</p>
+                    <p>I love extracting knowledge from raw data</p>
                 </div>
                 </div>
             </div>
             <div className="col-md-4 text-center animate-box">
                 <div className="services color-3">
                 <span className="icon">
-                    <i className="icon-phone3" />
+                    <i className="icon-lightbulb" />
                 </span>
                 <div className="desc">
                     <h3>Data Structures & Algorithms</h3>
-                    <p>I like it</p>
+                    <p>Despite I don't have a CS background, I am passionate about it</p>
                 </div>
                 </div>
             </div>
             <div className="col-md-4 text-center animate-box">
                 <div className="services color-5">
                 <span className="icon">
-                    <i className="icon-data" />
+                    <i className="icon-speech-bubble" />
                 </span>
                 <div className="desc">
-                    <h3>Something cool here</h3>
-                    <p>bla bla bla</p>
+                    <h3>Effective communicator</h3>
+                    <p>I never underestimated the importance of being able to communicate effectively, both in business and private life.</p>
                 </div>
                 </div>
             </div>
-            <div className="col-md-4 text-center animate-box">
+            {/* <div className="col-md-4 text-center animate-box">
                 <div className="services color-2">
                 <span className="icon">
                     <i className="icon-data" />
@@ -96,7 +96,7 @@ export default class About extends Component {
                     <p>I can sell myself pretty good</p>
                 </div>
                 </div>
-            </div>
+            </div> */}
             </div>
         </div>
         </section>
