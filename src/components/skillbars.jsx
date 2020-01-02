@@ -1,28 +1,16 @@
 import React, { Component } from 'react'
 import SkillBar from 'react-skillbars';
 
-const skills = [
-{
-"type": "Python",
-"level": 90
-},
-{
-"type": "SQL",
-"level": 90
-},
-{
-"type": "JavaScript",
-"level": 70
-},
-{
-"type": "React",
-"level": 60
-},
-{
-"type": "NodeJs",
-"level": 60
-}
+const SKILLS = [
+{"type": "Python","level": 90},
+{"type": "SQL","level": 90},
+{"type": "JavaScript","level": 70},
+{"type": "React","level": 40},
+{"type": "NodeJs","level": 60}
 ]
+
+// https://crisboarna.github.io/react-skillbars/#elementAllBar
+var colors = {}
 
 export default class Skillbars extends Component {
   render() {
@@ -36,9 +24,9 @@ export default class Skillbars extends Component {
               <h2 className="colorlib-heading animate-box">Skills</h2>
            </div>
          </div>
-         <article className="timeline-entry animate-box" data-animate-effect="bounceInLeft">
+         <article className="skillbars-entry animate-box" data-animate-effect="bounceInLeft">
           <section className="skillbars" data-section="skillbars">
-           <SkillBar skills={skills} height={30}/>
+           <SkillBar skills={SKILLS} colors={colors} height={30}/>
           </section>
          </article>
          </div>

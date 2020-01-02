@@ -622,6 +622,17 @@ body.offcanvas {
   filter: alpha(opacity=40);
   font-size: 16px; }
 
+.skillsbars-centered {
+  position: relative;
+  margin-bottom: 30px; }
+
+.skillbars-centered .skillbars-entry {
+  position: relative;
+  margin-top: 5px;
+  margin-left: 30px;
+  margin-bottom: 10px;
+  clear: both; }
+
 .services {
   margin-bottom: 30px;
   padding: 1.5em;
