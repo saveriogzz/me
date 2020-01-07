@@ -21,6 +21,7 @@ export default class Sidebar extends Component {
                   {/* <li><a href="#" data-nav-section="projects">Projects</a></li>
                   <li><a href="#" data-nav-section="blog">Blog</a></li> */}
                   <li><a href="#timeline" data-nav-section="timeline">Timeline</a></li>
+                  <li><a href="#education" data-nav-section="education">Education</a></li>
                   <li><a href="#skillbars" data-nav-section="skillbars">Skills</a></li>
                   <br></br>
                 </ul>
@@ -34,13 +35,14 @@ export default class Sidebar extends Component {
                 <li><a href="https://www.linkedin.com/in/saverioguzzo/" target="_blank" rel="noopener noreferrer"><i className="icon-linkedin2"/></a></li>
                 <li><a href="https://github.com/saveriogzz" target="_blank" rel="noopener noreferrer"><i className="icon-github"></i></a></li>
                 <li><a href="https://open.spotify.com/user/saverio_22" target="_blank" rel="noopener noreferrer"><i className="icon-spotify"></i></a></li>
+                {/*Kaggle link Non funziona*/}
                 <li><a href="https://www.kaggle.com/saveriogzz" target="_blank" rel="noopener noreferrer"><i className="icon-kaggle"/></a></li>
                 <br></br>
               </ul>
             </nav>
             <div className="colorlib-footer">
               <p><small>
-                  Made with <i className="icon-heart" aria-hidden="true" /> and <i className="icon-coffee" aria-hidden="false"></i><br></br>
+                  Made with <i className="icon-heart" aria-hidden="true" /> by Colorlib,<br></br>brewed with <i className="icon-coffee" aria-hidden="true"/> by myself.
               </small></p>
               <p><small>
                 <br/>

@@ -8,6 +8,7 @@
     "react": "^16.8.3",
     "react-dom": "^16.8.3",
     "react-icons": "^3.8.0",
+    "react-mailto": "^0.4.0",
     "react-scripts": "2.1.5",
     "react-skillbars": "^1.5.1",
     "travis": "^0.1.1",
