@@ -6,7 +6,8 @@ import About from './components/about'
 import Timeline from './components/timeline'
 import Education from './components/education'
 import Counter from './components/counters'
-import Skillbars from './components/skillbars'
+// import SkillBar from './components/skillbars'
+import ProgressBar from './components/progressbars'
 
 class App extends Component {
   render() {
@@ -17,10 +18,12 @@ class App extends Component {
 				 <div id="colorlib-main">
 					 <Introduction></Introduction>
 					 <About></About>
+           <br></br>
+           <br></br>
            <Counter></Counter>
 					 <Timeline></Timeline>
            <Education></Education>
-           <Skillbars></Skillbars>
+           <ProgressBar></ProgressBar>
          </div>
       	</div>
       </div>
