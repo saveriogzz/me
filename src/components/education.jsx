@@ -64,7 +64,7 @@ export default class Education extends Component {
                 </div>
                 <div id="collapseFour" className="panel-collapse collapse" role="tabpanel" aria-labelledby="headingThree">
                     <div className="panel-body">
-                        <li><p>Liceo Scientifico F. Vercelli, Asti</p></li>
+                        <li>Liceo Scientifico F. Vercelli, Asti</li>
                       <ul>Information Technology, Physics and Mathematics</ul>
                     </div>
                 </div>

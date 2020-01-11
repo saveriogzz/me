@@ -18,12 +18,12 @@ class App extends Component {
 				 <div id="colorlib-main">
 					 <Introduction></Introduction>
 					 <About></About>
+           <ProgressBar></ProgressBar>
            <br></br>
            <br></br>
            <Counter></Counter>
 					 <Timeline></Timeline>
            <Education></Education>
-           <ProgressBar></ProgressBar>
          </div>
       	</div>
       </div>

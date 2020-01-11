@@ -38,32 +38,10 @@ export default class ProgressBar extends Component {
 						</div>
 						<div className="col-md-6 animate-box" data-animate-effect="fadeInLeft">
 							<div className="progress-wrap">
-								<h3>HTML5</h3>
+								<h3>Java</h3>
 								<div className="progress">
-								 	<div className="progress-bar color-3" role="progressbar" aria-valuenow="85"
-								  	aria-valuemin="0" aria-valuemax="100">
-								    <span>85%</span>
-								  	</div>
-								</div>
-							</div>
-						</div>
-						<div className="col-md-6 animate-box" data-animate-effect="fadeInRight">
-							<div className="progress-wrap">
-								<h3>CSS3</h3>
-								<div className="progress">
-								 	<div className="progress-bar color-4" role="progressbar" aria-valuenow="90"
-								  	aria-valuemin="0" aria-valuemax="100">
-								    <span>90%</span>
-								  	</div>
-								</div>
-							</div>
-						</div>
-						<div className="col-md-6 animate-box" data-animate-effect="fadeInLeft">
-							<div className="progress-wrap">
-								<h3>WordPress</h3>
-								<div className="progress">
-								 	<div className="progress-bar color-5" role="progressbar" aria-valuenow="70"
-								  	aria-valuemin="0" aria-valuemax="100">
+								 	<div className="progress-bar color-3" role="progressbar" aria-valuenow="70"
+								  	aria-valuemin="0" aria-valuemax="100" style={{width: '70%'}}>
 								    <span>70%</span>
 								  	</div>
 								</div>
@@ -71,11 +49,33 @@ export default class ProgressBar extends Component {
 						</div>
 						<div className="col-md-6 animate-box" data-animate-effect="fadeInRight">
 							<div className="progress-wrap">
-								<h3>SEO</h3>
+								<h3>Node.js</h3>
 								<div className="progress">
-								 	<div className="progress-bar color-6" role="progressbar" aria-valuenow="80"
-								  	aria-valuemin="0" aria-valuemax="100">
-								    <span>80%</span>
+								 	<div className="progress-bar color-4" role="progressbar" aria-valuenow="65"
+								  	aria-valuemin="0" aria-valuemax="100" style={{width: '65%'}}>
+								    <span>65%</span>
+								  	</div>
+								</div>
+							</div>
+						</div>
+						<div className="col-md-6 animate-box" data-animate-effect="fadeInLeft">
+							<div className="progress-wrap">
+								<h3>JavaScript</h3>
+								<div className="progress">
+								 	<div className="progress-bar color-5" role="progressbar" aria-valuenow="70"
+								  	aria-valuemin="0" aria-valuemax="100" style={{width: '75%'}}>
+								    <span>70%</span>
+								  	</div>
+								</div>
+							</div>
+						</div>
+						<div className="col-md-6 animate-box" data-animate-effect="fadeInRight">
+							<div className="progress-wrap">
+								<h3>ReactJS</h3>
+								<div className="progress">
+								 	<div className="progress-bar color-6" role="progressbar"
+								  	aria-valuemin="0" aria-valuemax="100" style={{width: '65%'}}>
+								    <span>60%</span>
 								  	</div>
 								</div>
 							</div>
