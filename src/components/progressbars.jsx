@@ -9,8 +9,9 @@ export default class ProgressBar extends Component {
 				<div className="colorlib-narrow-content">
 					<div className="row">
 						<div className="col-md-6 col-md-offset-3 col-md-pull-3 animate-box" data-animate-effect="fadeInLeft">
-							<span className="heading-meta">My Specialty</span>
-							<h2 className="colorlib-heading animate-box">My Skills</h2>
+							<span className="heading-meta">My Tech Skills</span>
+							{/* }<h2 className="colorlib-heading animate-box">My Skills</h2> */}
+              <br></br>
 						</div>
 					</div>
 					<div className="row">
@@ -62,9 +63,9 @@ export default class ProgressBar extends Component {
 							<div className="progress-wrap">
 								<h3>JavaScript</h3>
 								<div className="progress">
-								 	<div className="progress-bar color-5" role="progressbar" aria-valuenow="70"
+								 	<div className="progress-bar color-5" role="progressbar"
 								  	aria-valuemin="0" aria-valuemax="100" style={{width: '75%'}}>
-								    <span>70%</span>
+								    <span>75%</span>
 								  	</div>
 								</div>
 							</div>
@@ -75,7 +76,7 @@ export default class ProgressBar extends Component {
 								<div className="progress">
 								 	<div className="progress-bar color-6" role="progressbar"
 								  	aria-valuemin="0" aria-valuemax="100" style={{width: '65%'}}>
-								    <span>60%</span>
+								    <span>65%</span>
 								  	</div>
 								</div>
 							</div>

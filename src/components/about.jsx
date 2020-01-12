@@ -13,8 +13,7 @@ export default class About extends Component {
                     <div className="about-desc">
                     <span className="heading-meta">About Me</span>
                     <h2 className="colorlib-heading">Who Am I?</h2>
-                    <p>something catchy..</p>
-                    <p>..here</p>
+                    <p><strong>Hi, I'm Saverio Guzzo</strong> </p>
                     </div>
                 </div>
                 </div>
@@ -34,22 +33,22 @@ export default class About extends Component {
             <div className="col-md-4 text-center animate-box">
                 <div className="services color-1">
                 <span className="icon">
-                    <i className="icon-bar-graph" />
+                    <i className="icon-bar-graph-2" />
                 </span>
                 <div className="desc">
-                    <h3>Data Analytics</h3>
-                    <p>I love extracting knowledge from raw data</p>
+                    <h3>Data Analysis</h3>
+                    { /*}<p>I love extracting knowledge from raw data</p> */}
                 </div>
                 </div>
             </div>
             <div className="col-md-4 text-center animate-box">
                 <div className="services color-3">
                 <span className="icon">
-                    <i className="icon-lightbulb" />
+                    <i className="icon-layers2" />
                 </span>
                 <div className="desc">
                     <h3>Data Structures & Algorithms</h3>
-                    <p>Despite I don't have a CS background, I am passionate about it</p>
+                  {/*  <p>Despite I don't have a CS background, I am passionate about it</p> */ }
                 </div>
                 </div>
             </div>
@@ -59,44 +58,44 @@ export default class About extends Component {
                     <i className="icon-speech-bubble" />
                 </span>
                 <div className="desc">
-                    <h3>Effective communicator</h3>
-                    <p>I've never underestimated the importance of being able to communicate effectively, both in business and private life</p>
+                    <h3>Effective communication</h3>
+                  {/*  <p>I've never underestimated the importance of being able to communicate effectively, both in business and private life</p> */}
                 </div>
                 </div>
             </div>
-            {/* <div className="col-md-4 text-center animate-box">
+            <div className="col-md-4 text-center animate-box">
                 <div className="services color-2">
                 <span className="icon">
                     <i className="icon-data" />
                 </span>
                 <div className="desc">
-                    <h3>Something super cool</h3>
-                    <p>bibidi bobidi bu </p>
+                    <h3>Database Management</h3>
+                    {/*<p>bibidi bobidi bu </p> */}
                 </div>
                 </div>
             </div>
             <div className="col-md-4 text-center animate-box">
                 <div className="services color-4">
                 <span className="icon">
-                    <i className="icon-layers2" />
+                    <i className="icon-bulb" />
                 </span>
                 <div className="desc">
-                    <h3>Yo brah</h3>
-                    <p>Yesssss</p>
+                    <h3>Problem Solving</h3>
+                   {/*  <p>Yesssss</p> */}
                 </div>
                 </div>
             </div>
             <div className="col-md-4 text-center animate-box">
                 <div className="services color-6">
                 <span className="icon">
-                    <i className="icon-phone3" />
+                    <i className="icon-bar-graph"/>
                 </span>
                 <div className="desc">
-                    <h3>Sales</h3>
-                    <p>I can sell myself pretty good</p>
+                    <h3>Business Development</h3>
+                  {/*  <p>I can sell myself pretty good</p> */}
                 </div>
                 </div>
-            </div> */}
+            </div>
             </div>
         </div>
         </section>

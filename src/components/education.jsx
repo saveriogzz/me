@@ -23,17 +23,16 @@ export default class Education extends Component {
               <div className="panel panel-default">
                <div className="panel-heading" role="tab" id="headingOne">
                 <h4 className="panel-title">
-                 <a data-toggle="collapse" data-parent="#accordion" href="#collapseOne" aria-expanded="true" aria-controls="collapseOne">Master Degree Industrial Engineering and Management</a>
+                 <a data-toggle="collapse" data-parent="#accordion" href="#collapseOne" aria-expanded="true" aria-controls="collapseOne">Master of Science in Industrial Engineering and Management</a>
                 </h4>
                </div>
                <div id="collapseOne" className="panel-collapse collapse in" role="tabpanel" aria-labelledby="headingOne">
                 <div className="panel-body">
                  <div className="row">
-                  <div className="col-md-6">
-                    <li>Politecnico di Torino.</li>
-                  </div>
-                  <div className="col-md-6">
-                    <li>Griffith University - Gold Coast, Queensland, Australia</li>
+                  <div className="col-md-12">
+                    <li>Politecnico di Torino, Turin, Italy.</li>
+                    <ul>The Master’s Degree Course in Management Engineering is aimed at preparing engineers who will be open-minded to the systematic problems that characterize the every-day life of a company. The objective of the Course is to train a graduate to be culturally prepared in the technological and in the economic-managerial fields, who will be capable of managing product and service innovations. The educational plan will follow a route that starts with the analysis of market structures, from an economic and legal point of view, and goes on to the management of new product development projects, company strategies, organizational planning, production system management and quality management.
+                    The final purpose is to create a high-profile professional figure who will be able to intervene actively in strategic and technical-operative decisions (the planning and management of business models, organizational structures, development projects of new products/services, financial choices, etc...), and who will be able to influence the competitiveness of companies and organizations operating in contexts characterized by elevated innovation, but also by a marked technological and market complexity.</ul>
                   </div>
                  </div>
                 </div>
@@ -48,8 +47,9 @@ export default class Education extends Component {
                 </div>
                 <div id="collapseTwo" className="panel-collapse collapse" role="tabpanel" aria-labelledby="headingTwo">
                     <div className="panel-body">
-                        <li>Politecnico di Torino.</li>
+                        <li>Politecnico di Torino, Turin, Italy.</li>
                     <ul>
+                      The degree program aims to train engineers who will act as companies’ operation managers and, therefore, will have a cross curricular profile based - on the one hand, on the use of analytical tools that are typical of industrial engineering and production, and - on the other hand, on the application of information systems and IT knowledge to support company operations.
                     </ul>
                     </div>
                 </div>
