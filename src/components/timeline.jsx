@@ -22,7 +22,7 @@ export default class Timeline extends Component {
                       </div>
                       <div className="timeline-label">
                         <h2>Internship at Nike EHQ <span> <strong> Hilversum, The Nethelrands </strong> | Aug 2019-present |</span></h2>
-                        <p>I recently joined Nike as a Data Analytics & Engineering Intern in Express Lane's Performance Management team, where I use advanced analytics tools such as, amongsts others, <i>Python's pandas and scikit-learn</i> to find insights from raw data.</p>
+                        <p>I recently joined Nike as a Data Analytics & Engineering Intern in Express Lane's Performance Management team, where I use advanced analytics tools such as, amongst others, <i>Python's pandas and scikit-learn</i> to find insights from raw data.</p>
                       </div>
                     </div>
                   </article>

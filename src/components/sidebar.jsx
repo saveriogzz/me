@@ -29,9 +29,9 @@ export default class Sidebar extends Component {
             </nav>
             <nav id="colorlib-main-menu">
               <ul>
-                <li><a href="https://www.facebook.com/saveriogzz" target="_blank" rel="noopener noreferrer"><i className="icon-facebook22"/></a></li>
+                {/* }<li><a href="https://www.facebook.com/saveriogzz" target="_blank" rel="noopener noreferrer"><i className="icon-facebook22"/></a></li> */}
                 <li><a href="https://twitter.com/SaverioGuzzo22" target="_blank" rel="noopener noreferrer"><i className="icon-twitter2"/></a></li>
-                <li><a href="https://www.instagram.com/saveriomaggiusto/" target="_blank" rel="noopener noreferrer"><i className="icon-instagram"/></a></li>
+                {/* <li><a href="https://www.instagram.com/saveriomaggiusto/" target="_blank" rel="noopener noreferrer"><i className="icon-instagram"/></a></li> */}
                 <li><a href="https://www.linkedin.com/in/saverioguzzo/" target="_blank" rel="noopener noreferrer"><i className="icon-linkedin2"/></a></li>
                 <li><a href="https://github.com/saveriogzz" target="_blank" rel="noopener noreferrer"><i className="icon-github"></i></a></li>
                 <li><a href="https://open.spotify.com/user/saverio_22" target="_blank" rel="noopener noreferrer"><i className="icon-spotify"></i></a></li>

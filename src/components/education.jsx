@@ -32,7 +32,7 @@ export default class Education extends Component {
                   <div className="col-md-12">
                     <li>Politecnico di Torino, Turin, Italy.</li>
                     <ul>The Master’s Degree Course in Management Engineering is aimed at preparing engineers who will be open-minded to the systematic problems that characterize the every-day life of a company. The objective of the Course is to train a graduate to be culturally prepared in the technological and in the economic-managerial fields, who will be capable of managing product and service innovations. The educational plan will follow a route that starts with the analysis of market structures, from an economic and legal point of view, and goes on to the management of new product development projects, company strategies, organizational planning, production system management and quality management.
-                    The final purpose is to create a high-profile professional figure who will be able to intervene actively in strategic and technical-operative decisions (the planning and management of business models, organizational structures, development projects of new products/services, financial choices, etc...), and who will be able to influence the competitiveness of companies and organizations operating in contexts characterized by elevated innovation, but also by a marked technological and market complexity.</ul>
+                    </ul>
                   </div>
                  </div>
                 </div>
@@ -71,9 +71,9 @@ export default class Education extends Component {
             </div>
 
 
-             </div>
-            </div>
-           </article>
+              </div>
+              </div>
+              </article>
              </div>
             </div>
            </div>
