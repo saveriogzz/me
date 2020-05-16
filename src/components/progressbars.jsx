@@ -28,7 +28,7 @@ export default class ProgressBar extends Component {
 						</div>
 						<div className="col-md-6 animate-box" data-animate-effect="fadeInRight">
 							<div className="progress-wrap">
-								<h3>SQL</h3>
+								<h3>SQL / NoSQL</h3>
 								<div className="progress">
 								 	<div className="progress-bar color-2" role="progressbar" aria-valuenow="90"
 								  	aria-valuemin="0" aria-valuemax="100" style={{width: '90%'}}>
@@ -50,7 +50,7 @@ export default class ProgressBar extends Component {
 						</div>
 						<div className="col-md-6 animate-box" data-animate-effect="fadeInRight">
 							<div className="progress-wrap">
-								<h3>Node.js</h3>
+								<h3>AWS</h3>
 								<div className="progress">
 								 	<div className="progress-bar color-4" role="progressbar" aria-valuenow="65"
 								  	aria-valuemin="0" aria-valuemax="100" style={{width: '65%'}}>
@@ -61,18 +61,18 @@ export default class ProgressBar extends Component {
 						</div>
 						<div className="col-md-6 animate-box" data-animate-effect="fadeInLeft">
 							<div className="progress-wrap">
-								<h3>JavaScript</h3>
+								<h3>ETL</h3>
 								<div className="progress">
 								 	<div className="progress-bar color-5" role="progressbar"
-								  	aria-valuemin="0" aria-valuemax="100" style={{width: '75%'}}>
-								    <span>75%</span>
+								  	aria-valuemin="0" aria-valuemax="100" style={{width: '80%'}}>
+								    <span>80%</span>
 								  	</div>
 								</div>
 							</div>
 						</div>
 						<div className="col-md-6 animate-box" data-animate-effect="fadeInRight">
 							<div className="progress-wrap">
-								<h3>ReactJS</h3>
+								<h3>Spark</h3>
 								<div className="progress">
 								 	<div className="progress-bar color-6" role="progressbar"
 								  	aria-valuemin="0" aria-valuemax="100" style={{width: '65%'}}>

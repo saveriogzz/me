@@ -49,7 +49,7 @@ export default class About extends Component {
                     <i className="icon-data" />
                 </span>
                 <div className="desc">
-                    <h3>Databases</h3>
+                    <h3>Cloud Data Warehouses</h3>
                     {/*<p>bibidi bobidi bu </p> */}
                 </div>
                 </div>
@@ -76,7 +76,7 @@ export default class About extends Component {
                     <i className="icon-cloud4"/>
                 </span>
                 <div className="desc">
-                    <h3>Cloud computing</h3>
+                    <h3>Infrastructure as Code</h3>
                   {/*  <p</p> */}
                 </div>
                 </div>
